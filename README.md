@@ -172,9 +172,4 @@ mobile/ (Flutter)                      backend/ (FastAPI, Python 3.11+)
   yet POST it to a live ONDC Seller Network Participant gateway — see the
   `# TODO: POST to BPP gateway` marker in `main.py`.
 
----
 
-## License
-
-Add your license of choice here (MIT/Apache-2.0 recommended for an
-open, socially-oriented tool like this).
